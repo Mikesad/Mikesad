@@ -12,7 +12,7 @@
 <!-- 若 skillicons.dev 图标无法加载（网络受限），可启用下方的 shields.io 备选方案 -->
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,html,css,mysql,rabbitmq,git,githubactions,md,idea" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,html,css,mysql,rabbitmq,git" alt="Tech Stack" />
 </a>
 </div>
 
