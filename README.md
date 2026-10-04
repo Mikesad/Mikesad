@@ -1,6 +1,8 @@
 <div align="center">
 
-
+<a href="https://github.com/OrdoAbChao7">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=440&height=50&lines=Hi%2C+I%27m+OrdoAbChao" alt="Hi, I'm OrdoAbChao" />
+</a>
 
 把想法做成工具，把学习变成作品。
 
@@ -29,7 +31,7 @@
 
 ## 👋 About Me
 
-- 🪄 Exploring AI applications, agent workflows, and developer productivity tools.
+- 🔭 目前正研究 AI 应用、Agent 开发领域。
 - 🧩 Turning repetitive tasks and complex research workflows into practical software.
 - 📊 Continuous learning through hands-on engineering across **Python, TypeScript, Go, and C**.
 - 🌱 Focusing on local-first tools, workflow automation, mathematical modeling, and intelligent knowledge management.
@@ -63,9 +65,7 @@ https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white
 
 | Project | Description | Tech Stack |
 | :------ | :---------- | :--------- |
-| [**CountyResearchAI**](https://github.com/OrdoAbChao7/CountyResearchAI) | LLM 县域产业 AI 调研助手：自动化公开数据采集、证据链留存与研报初稿生成 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LLM Agent](https://img.shields.io/badge/LLM_Agent-4B4B93?style=flat) ![Research Pipeline](https://img.shields.io/badge/Research_Pipeline-6E7B8B?style=flat) |
-| [**courselm**](https://github.com/OrdoAbChao7/courselm) | 课程资料自动化流水线：课件资料整理 → NotebookLM 知识提炼 → Obsidian 复习文档 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NotebookLM](https://img.shields.io/badge/NotebookLM-F9AB00?style=flat) ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat) |
-| [**Zhihucrawler**](https://github.com/OrdoAbChao7/Zhihucrawler) | Windows 桌面端知乎采集器：支持回答、专栏与收藏夹结构化数据抓取与离线下载 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Web Scraping](https://img.shields.io/badge/Web_Scraping-5A29E4?style=flat) ![Desktop Tool](https://img.shields.io/badge/Desktop_Tool-343A40?style=flat) |
+| [**QuickCode**](https://github.com/Mikesad/quickcode) | 以终端为中心的 Windows 原生编码助手：保留 Claude Code 风格的 `model → tool → model` 主循环，纯 PowerShell 环境即可安装与日常使用 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Agent Loop](https://img.shields.io/badge/Agent_Loop-4B4B93?style=flat) ![Terminal](https://img.shields.io/badge/Terminal-2B3137?style=flat&logo=powershell&logoColor=white) |
 
 <br/>
 
