@@ -17,10 +17,10 @@
 
 ## 👋 About Me
 
-- 🪄 Exploring AI applications, agent workflows, and developer productivity tools.
-- 🧩 Turning repetitive tasks and complex research workflows into practical software.
-- 📊 Continuous learning through hands-on engineering across **Python, TypeScript, Go, and C**.
-- 🌱 Focusing on local-first tools, workflow automation, mathematical modeling, and intelligent knowledge management.
+- 🪄 
+- 🧩 
+- 📊 
+- 🌱 
 
 <hr/>
 
