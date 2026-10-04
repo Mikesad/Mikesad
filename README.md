@@ -1,20 +1,20 @@
-<div align="center">
-
 ## 👋 About Me
 
 - 🔭 目前正研究 AI 应用、Agent 开发领域。
-- 🧩 Turning repetitive tasks and complex research workflows into practical software.
-- 📊 Continuous learning through hands-on engineering across **Python, TypeScript, Go, and C**.
-- 🌱 Focusing on local-first tools, workflow automation, mathematical modeling, and intelligent knowledge management.
+- 👨‍💻 一名后端程序员，正在成为全栈程序员的路上。
+- ⚡ 热衷于构建高性能、高可用、高并发的应用程序。
+- 💡 希望变得具有产品思维，能独立做出不错的产品。
 
 <hr/>
 
 ## 🛠 Tech Stack
 
 <!-- 若 skillicons.dev 图标无法加载（网络受限），可启用下方的 shields.io 备选方案 -->
+<div align="center">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,python,ts,html,css,mysql,rabbitmq,git,githubactions,md,idea" alt="Tech Stack" />
 </a>
+</div>
 
 <!--
 备选方案（用 shields.io 徽章，网络不稳定时可用）：
@@ -35,6 +35,8 @@ https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white
 | Project | Description | Tech Stack |
 | :------ | :---------- | :--------- |
 | [**QuickCode**](https://github.com/Mikesad/quickcode) | 以终端为中心的 Windows 原生编码助手：保留 Claude Code 风格的 `model → tool → model` 主循环，纯 PowerShell 环境即可安装与日常使用 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Agent Loop](https://img.shields.io/badge/Agent_Loop-4B4B93?style=flat) ![Terminal](https://img.shields.io/badge/Terminal-2B3137?style=flat&logo=powershell&logoColor=white) |
+
+<div align="center">
 
 <br/>
 
