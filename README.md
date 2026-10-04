@@ -1,21 +1,12 @@
 <div align="center">
 
 <a href="https://github.com/OrdoAbChao7">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=440&height=50&lines=Hi%2C+I%27m+OrdoAbChao" alt="Hi, I'm OrdoAbChao" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=440&height=50&lines=Hi%2C+I%27m+OrdoAbChao" alt="Hi" />
 </a>
 
 
 
-<!-- 徽章行 1 -->
-<a href="https://github.com/OrdoAbChao7">
-  <img src="https://img.shields.io/badge/GitHub-OrdoAbChao7-1B1F24?style=flat&logo=github&logoColor=white" alt="GitHub OrdoAbChao7" />
-</a>
-<a href="https://ordoabchao7.github.io/personal-blog/">
-  <img src="https://img.shields.io/badge/Blog-Personal%20Blog-3F5765?style=flat" alt="Blog Personal Blog" />
-</a>
-<span>
-  <img src="https://komarev.com/ghpvc/?username=OrdoAbChao7&style=flat&color=0969DA&label=Profile+views" alt="Profile views" />
-</span>
+
 
 <br/>
 
