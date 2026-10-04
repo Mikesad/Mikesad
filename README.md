@@ -1,11 +1,5 @@
 <div align="center">
 
-<a href="https://github.com/Mikesad">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=440&height=50&lines=Hi%2C+I%27m+OrdoAbChao" alt="Hi, I'm OrdoAbChao" />
-</a>
-
-<hr/>
-
 ## 👋 About Me
 
 - 🔭 目前正研究 AI 应用、Agent 开发领域。
@@ -19,9 +13,7 @@
 
 <!-- 若 skillicons.dev 图标无法加载（网络受限），可启用下方的 shields.io 备选方案 -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,html,css,mysql,rabbitmq,git" alt="Tech Stack" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=githubactions,md,idea" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,html,css,mysql,rabbitmq,git,githubactions,md,idea" alt="Tech Stack" />
 </a>
 
 <!--
