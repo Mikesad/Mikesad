@@ -1,8 +1,3 @@
-# OrdoAbChao7 个人主页 README
-
-> 将本文件内容粘贴到你的特殊仓库 `OrdoAbChao7/OrdoAbChao7` 的 README.md，即可显示在 GitHub 个人主页顶部。
-> 若还没有该仓库：新建一个**与你用户名同名**的公开仓库并勾选 Add README 即可。
-
 <div align="center">
 
 <a href="https://github.com/OrdoAbChao7">
