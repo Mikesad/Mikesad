@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/OrdoAbChao7">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=440&height=50&lines=Hi%2C+I%27m+OrdoAbChao" alt="Hi" />
+  
 </a>
 
 
