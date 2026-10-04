@@ -11,12 +11,7 @@
 <br/>
 
 <!-- 徽章行 2：学校 / 城市 -->
-<span>
-  <img src="https://img.shields.io/badge/%F0%9F%8E%93-Wuhan_University_of_Technology-8B959E?style=flat" alt="Wuhan University of Technology" />
-</span>
-<span>
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D-Wuhan%2C_China-8B959E?style=flat" alt="Wuhan, China" />
-</span>
+
 
 <hr/>
 
