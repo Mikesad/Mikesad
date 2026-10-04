@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=28&pause=1000&color=0969DA&center=true&vCenter=true&width=440&height=50&lines=Hi%2C+I%27m+OrdoAbChao" alt="Hi, I'm OrdoAbChao" />
 </a>
 
-把想法做成工具，把学习变成作品。
+
 
 <!-- 徽章行 1 -->
 <a href="https://github.com/OrdoAbChao7">
@@ -67,9 +67,7 @@ https://img.shields.io/badge/VSCode-5199E4?style=flat&logo=visualstudiocode&logo
 
 | Project | Description | Tech Stack |
 | :------ | :---------- | :--------- |
-| [**CountyResearchAI**](https://github.com/OrdoAbChao7/CountyResearchAI) | LLM 县域产业 AI 调研助手：自动化公开数据采集、证据链留存与研报初稿生成 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LLM Agent](https://img.shields.io/badge/LLM_Agent-4B4B93?style=flat) ![Research Pipeline](https://img.shields.io/badge/Research_Pipeline-6E7B8B?style=flat) |
-| [**courselm**](https://github.com/OrdoAbChao7/courselm) | 课程资料自动化流水线：课件资料整理 → NotebookLM 知识提炼 → Obsidian 复习文档 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NotebookLM](https://img.shields.io/badge/NotebookLM-F9AB00?style=flat) ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat) |
-| [**Zhihucrawler**](https://github.com/OrdoAbChao7/Zhihucrawler) | Windows 桌面端知乎采集器：支持回答、专栏与收藏夹结构化数据抓取与离线下载 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Web Scraping](https://img.shields.io/badge/Web_Scraping-5A29E4?style=flat) ![Desktop Tool](https://img.shields.io/badge/Desktop_Tool-343A40?style=flat) |
+
 
 <br/>
 
