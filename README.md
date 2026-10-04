@@ -12,7 +12,7 @@
 <!-- 若 skillicons.dev 图标无法加载（网络受限），可启用下方的 shields.io 备选方案 -->
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,html,css,mysql,rabbitmq,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,mysql,rabbitmq,git,html,css" alt="Tech Stack" />
 </a>
 </div>
 
@@ -34,7 +34,7 @@ https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white
 
 | Project | Description | Tech Stack |
 | :------ | :---------- | :--------- |
-| [**QuickCode**](https://github.com/Mikesad/quickcode) | 以终端为中心的 Windows 原生编码助手：保留 Claude Code 风格的 `model → tool → model` 主循环，纯 PowerShell 环境即可安装与日常使用 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Agent Loop](https://img.shields.io/badge/Agent_Loop-4B4B93?style=flat) ![Terminal](https://img.shields.io/badge/Terminal-2B3137?style=flat&logo=powershell&logoColor=white) |
+| [**QuickCode**](https://github.com/Mikesad/quickcode) | 以终端为中心的 Windows 原生编码助手：保留 Claude Code 风格的 `model → tool → model` 主循环，纯 PowerShell 环境即可安装与日常使用 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Terminal](https://img.shields.io/badge/Terminal-2B3137?style=flat&logo=powershell&logoColor=white) |
 
 <div align="center">
 
