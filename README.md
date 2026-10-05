@@ -41,4 +41,4 @@ https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white
 
 | Project | Description | Tech Stack |
 | :------ | :---------- | :--------- |
-| [**QuickCode**](https://github.com/Mikesad/quickcode) | A terminal-first, native Windows coding assistant: keeps the Claude-Code-style `model → tool → model` loop, installable and usable right in a plain PowerShell environment | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| [**QuickCode**](https://github.com/Mikesad/quickcode) | Terminal-first native Windows coding assistant with a Claude-Code-style `model → tool → model` loop | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
