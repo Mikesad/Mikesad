@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:8957E5&height=180&section=header&text=Wenjun%20Li&fontSize=50&fontAlignY=42&desc=Backend%20%E2%86%92%20Full-Stack%20Developer&descSize=16&descAlignY=68&fontColor=ffffff&animation=fadeIn" alt="header" width="100%" />
 </div>
 
-<details open>
-<summary><b>🇨🇳 中文</b>（点击收起，切换语言）</summary>
+<details>
+<summary><b>🇨🇳 中文</b>（点击展开中文版）</summary>
 
 ## 👋 自我介绍
 
@@ -17,7 +17,7 @@
 <!-- 若 skillicons.dev 图标无法加载（网络受限），可启用下方的 shields.io 备选方案 -->
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,mysql,rabbitmq,git,html,css" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,mysql,rabbitmq,git,html,css,docker,redis" alt="Tech Stack" />
 </a>
 </div>
 
@@ -41,8 +41,8 @@ https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white
 
 </details>
 
-<details>
-<summary><b>🇬🇧 English</b>（Click to expand English version）</summary>
+<details open>
+<summary><b>🇬🇧 English</b>（点击收起，切换语言）</summary>
 
 ## 👋 About Me
 
@@ -55,7 +55,7 @@ https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white
 
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,mysql,rabbitmq,git,html,css" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,mysql,rabbitmq,git,html,css,docker,redis" alt="Tech Stack" />
 </a>
 </div>
 
