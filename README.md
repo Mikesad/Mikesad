@@ -2,19 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:8957E5&height=180&section=header&text=Wenjun%20Li&fontSize=50&fontAlignY=42&desc=Backend%20%E2%86%92%20Full-Stack%20Developer&descSize=16&descAlignY=68&fontColor=ffffff&animation=fadeIn" alt="header" width="100%" />
 </div>
 
-<details>
-<summary><b>🇨🇳 中文</b>（点击展开中文版）</summary>
+## 👋 About Me
 
-## 👋 自我介绍
+- 🔭 Currently exploring AI applications and agent development.
+- 👨‍💻 Backend engineer on the road to becoming a full-stack developer.
+- ⚡ Passionate about building high-performance, highly available, and high-concurrency applications.
+- 💡 Aiming to develop product thinking and ship solid products independently.
 
-- 🔭 目前正研究 AI 应用、Agent 开发领域。
-- 👨‍💻 一名后端程序员，正在成为全栈程序员的路上。
-- ⚡ 热衷于构建高性能、高可用、高并发的应用程序。
-- 💡 希望变得具有产品思维，能独立做出不错的产品。
+<hr/>
 
-## 🛠 技术栈
+## 🛠 Tech Stack
 
-<!-- 若 skillicons.dev 图标无法加载（网络受限），可启用下方的 shields.io 备选方案 -->
+<!-- 若 skillicons.dev 图标无法加载（网络受限），可启用下方注释里的 shields.io 备选徽章 -->
 <div align="center">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,python,ts,js,mysql,rabbitmq,git,html,css,docker,redis" alt="Tech Stack" />
@@ -26,43 +25,20 @@
 https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white
 https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
 https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white
-https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black
 https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white
 https://img.shields.io/badge/MQ-FF6600?style=flat&logo=rabbitmq&logoColor=white
 https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white
+https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white
+https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white
 -->
 
-## 🚀 精选项目
-
-| 项目 | 描述 | 技术栈 |
-| :--- | :--- | :--- |
-| [**QuickCode**](https://github.com/Mikesad/quickcode) | 以终端为中心的 Windows 原生编码助手：保留 Claude Code 风格的 `model → tool → model` 主循环，纯 PowerShell 环境即可安装与日常使用 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-
-</details>
-
-<details open>
-<summary><b>🇬🇧 English</b>（点击收起，切换语言）</summary>
-
-## 👋 About Me
-
-- 🔭 Currently exploring AI applications and agent development.
-- 👨‍💻 Backend engineer on the road to becoming a full-stack developer.
-- ⚡ Passionate about building high-performance, highly available, and high-concurrency applications.
-- 💡 Aiming to develop product thinking and ship solid products independently.
-
-## 🛠 Tech Stack
-
-<div align="center">
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,mysql,rabbitmq,git,html,css,docker,redis" alt="Tech Stack" />
-</a>
-</div>
+<hr/>
 
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 | :------ | :---------- | :--------- |
 | [**QuickCode**](https://github.com/Mikesad/quickcode) | A terminal-first, native Windows coding assistant: keeps the Claude-Code-style `model → tool → model` loop, installable and usable right in a plain PowerShell environment | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-
-</details>
